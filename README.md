@@ -29,11 +29,11 @@ Dieses Projekt ist eine einfache Fotogalerie, die nur HTML und CSS verwendet. Es
 
 .´index.html´: Haupt-HTML-Datei.
 .´style.css´: CSS-Styling für die Fotogalerie.
-.´public.images/´: Ordner für die Bilder.
+.´public.image/´: Ordner für die Bilder.
 
 ## Anpassung
 
-. Füge weitere Bilder im ´public.images/´-Ordner hinzu.
+. Füge weitere Bilder im ´public.image/´-Ordner hinzu.
 . Passe das Styling in der ´style.css´-Datei an, um das Erscheinungsbild zu ändern.
   
 ## Lizenz
