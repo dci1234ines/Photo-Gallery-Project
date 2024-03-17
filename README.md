@@ -35,12 +35,11 @@ Dieses Projekt ist eine einfache Fotogalerie von meiner Heimat, die nur HTML und
 
 .´index.html´: Haupt-HTML-Datei.
 .´style.css´: CSS-Styling für die Fotogalerie.
-.´public.image/´: Ordner für die Bilder.
+.´public.images/´: Ordner für die Bilder.
 
 ### Verwendung
 Die Fotogalerie ist einfach zu bedienen:
-Navigieren Sie durch die Bilder, indem Sie auf das Bild klicken.
-Klicken Sie auf ein Bild, um es in voller Größe anzuzeigen.
+Navigieren Sie durch die Bilder, indem Sie mit dem hover effekt auf das Bild durchgehen, und es in voller Größe anzuzeigen.
 Schließen Sie das Vollbild,  indem Sie außerhalb des Bildes navigieren.
 
 ## Anpassung
@@ -56,9 +55,6 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen finden
 Die Fotos in dieser Fotogalerie sind persönliche Aufnahmen des Autors, die mit einem Handy gemacht wurden, und stehen frei zur Verfügung. *Urheberrechtshinweis: Die Fotos in dieser Fotogalerie sind das geistige Eigentum des Autors und dürfen nicht ohne Erlaubnis reproduziert, verändert oder weiterverbreitet werden.
 
 Viel Spaß mit der Fotogalerie! Bei Fragen stehe ich gerne zur Verfügung.
-
-
-
 
 
 
